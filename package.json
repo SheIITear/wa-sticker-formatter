@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "axios": "^0.21.3",
-    "file-type": "^16.3.0",
+    "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
     "fs-extra": "^9.1.0",
     "gif-frames": "^1.0.1",
